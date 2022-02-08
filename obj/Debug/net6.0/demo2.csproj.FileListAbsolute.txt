@@ -1,0 +1,15 @@
+C:\Users\narayan.banke\OneDrive - Brillio\Pictures\Office\Git\demo2\bin\Debug\net6.0\demo2.exe
+C:\Users\narayan.banke\OneDrive - Brillio\Pictures\Office\Git\demo2\bin\Debug\net6.0\demo2.deps.json
+C:\Users\narayan.banke\OneDrive - Brillio\Pictures\Office\Git\demo2\bin\Debug\net6.0\demo2.runtimeconfig.json
+C:\Users\narayan.banke\OneDrive - Brillio\Pictures\Office\Git\demo2\bin\Debug\net6.0\demo2.dll
+C:\Users\narayan.banke\OneDrive - Brillio\Pictures\Office\Git\demo2\bin\Debug\net6.0\ref\demo2.dll
+C:\Users\narayan.banke\OneDrive - Brillio\Pictures\Office\Git\demo2\bin\Debug\net6.0\demo2.pdb
+C:\Users\narayan.banke\OneDrive - Brillio\Pictures\Office\Git\demo2\obj\Debug\net6.0\demo2.csproj.AssemblyReference.cache
+C:\Users\narayan.banke\OneDrive - Brillio\Pictures\Office\Git\demo2\obj\Debug\net6.0\demo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narayan.banke\OneDrive - Brillio\Pictures\Office\Git\demo2\obj\Debug\net6.0\demo2.AssemblyInfoInputs.cache
+C:\Users\narayan.banke\OneDrive - Brillio\Pictures\Office\Git\demo2\obj\Debug\net6.0\demo2.AssemblyInfo.cs
+C:\Users\narayan.banke\OneDrive - Brillio\Pictures\Office\Git\demo2\obj\Debug\net6.0\demo2.csproj.CoreCompileInputs.cache
+C:\Users\narayan.banke\OneDrive - Brillio\Pictures\Office\Git\demo2\obj\Debug\net6.0\demo2.dll
+C:\Users\narayan.banke\OneDrive - Brillio\Pictures\Office\Git\demo2\obj\Debug\net6.0\ref\demo2.dll
+C:\Users\narayan.banke\OneDrive - Brillio\Pictures\Office\Git\demo2\obj\Debug\net6.0\demo2.pdb
+C:\Users\narayan.banke\OneDrive - Brillio\Pictures\Office\Git\demo2\obj\Debug\net6.0\demo2.genruntimeconfig.cache
